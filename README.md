@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tatai007
 - 👀 I’m interested in Web Development, specially Frontend Operation.
-- 🌱 I’m currently learning HTML, CSS, JavaScript.
+- 🌱 I’m currently learning Java, HTML, CSS, JavaScript.
 - 💞️ I’m looking to get a job in a software company.
 - 📫 contact me through my email id: akonaree@gmail.com
 
