@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tatai007
+- 👋 Hi, I’m Anirban Konar
 - 👀 I’m interested in Web Development, specially Frontend Operation.
-- 🌱 I’m currently learning Full stack web development.
+- 🌱 I’m currently learning Full stack web development form Newton School (an online platform).
 - 💞️ I’m looking to get a job in a software company.
 - 📫 contact me through my email id: akonaree@gmail.com
 
